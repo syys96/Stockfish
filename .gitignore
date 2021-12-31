@@ -1,0 +1,5 @@
+.idea/
+*.o
+src/.depend
+src/stockfish
+
